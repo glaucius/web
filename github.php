@@ -8,7 +8,7 @@ $secret = 'a/j+NPXFHFqb6vIpx75QlkPmS68nt/Wu';
 
 // Path to your respostory on your server.
 // e.g. "/var/www/respostory"
-$path = "";
+$path = "/var/www/html";
 
 // Headers deliveried from GitHub
 $signature = $_SERVER['HTTP_X_HUB_SIGNATURE'];
