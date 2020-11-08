@@ -3,8 +3,7 @@
 // GitHub Webhook Secret.
 // Keep it the same with the 'Secret' field on your Webhooks / Manage webhook page of your respostory.
 
-$secret = 'a/j+NPXFHFqb6vIpx75QlkPmS68nt/Wu';
-
+include 'secret.php';
 
 // Path to your respostory on your server.
 // e.g. "/var/www/respostory"
