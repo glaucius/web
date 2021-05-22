@@ -19,13 +19,16 @@ edit files  Dockerfile and other
 
     `docker build -t yourimage:tag`
 
+3.1 - Build 
+
+
 
 4 - Run your image
 
     `docker run yourimage:tag -p 80:80 -d --name some-container-name`
 
 
-Well, thats it !!!
+Well, you can see my webpage  [here](http://glaucius.moonops.com.br).
 
 Let me know if need any help, feel free to use this code.
 
