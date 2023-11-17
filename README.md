@@ -136,7 +136,7 @@ How to start your own image on a container
 _To run it like a daemon put -d before -p option._
 
    ```JS
-   docker run -d -p 8080:80 my-image:v1 --name my-image-container-name
+   docker run --d -p 8080:80 my-image:v1 --name my-image-container-name
    ```
 
 
